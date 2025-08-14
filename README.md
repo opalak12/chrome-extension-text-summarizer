@@ -26,4 +26,4 @@ Modern, responsive popup UI with auto-resizing textarea.
     - Navigate to any web page you want to summarize.
     - Click the extension icon in Chrome to open the popup.
     - Click the Summarize Page button.  
-    The summary will appear in the textarea below the button.
+  The summary will appear in the textarea below the button.
