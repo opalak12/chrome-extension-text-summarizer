@@ -1,4 +1,4 @@
-Chrome Extension Text Summarizer
+**Chrome Extension Text Summarizer**
 
 This Chrome extension summarizes web pages using a deployed backend API. Users can click the "Summarize Page" button in the extension popup to get a concise summary of the current page.
 
