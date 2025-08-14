@@ -4,9 +4,9 @@ This Chrome extension summarizes web pages using a deployed backend API. Users c
 
 **Features**
 
-Summarizes any web page by extracting the text from paragraphs.  
-Uses a backend deployed on Render with Hugging Face facebook/bart-large-cnn model.  
-Modern, responsive popup UI with auto-resizing textarea.
+  - Summarizes any web page by extracting the text from paragraphs.  
+  - Uses a backend deployed on Render with Hugging Face facebook/bart-large-cnn model.  
+  - Modern, responsive popup UI with auto-resizing textarea.
 
 **Getting Started**
 1. Install the Extension Locally
