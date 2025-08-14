@@ -12,7 +12,8 @@ Modern, responsive popup UI with auto-resizing textarea.
 1. Install the Extension Locally
 - Clone this repository:
 
-```git clone https://github.com/opalak12/chrome-extension-text-summarizer.git
+```
+  git clone https://github.com/opalak12/chrome-extension-text-summarizer.git
   cd chrome-extension-text-summarizer
 ```
 
