@@ -2,11 +2,12 @@ document.getElementById("summarize-btn").addEventListener("click", async () => {
   try {
     const [tab] = await chrome.tabs.query({ active: true, currentWindow: true });
 
-    const response = await fetch("http://localhost:3000/summarize-url", {
+    const response = await fetch("https://chrome-extension-text-summarizer.onrender.com/summarize-url", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ url: tab.url })
     });
+
 
     const data = await response.json();
     document.getElementById("summary").value = data.summary;

@@ -4,6 +4,9 @@
   "version": "1.0",
   "description": "Summarizes text on any webpage",
   "permissions": ["activeTab", "scripting"],
+  "host_permissions": [
+    "https://chrome-extension-text-summarizer.onrender.com/*"
+  ],
   "action": {
     "default_popup": "popup.html"
   },
