@@ -10,15 +10,16 @@ Modern, responsive popup UI with auto-resizing textarea.
 
 **Getting Started**
 1. Install the Extension Locally
-Clone this repository:
+- Clone this repository:
 
-  git clone https://github.com/opalak12/chrome-extension-text-summarizer.git
+```git clone https://github.com/opalak12/chrome-extension-text-summarizer.git
   cd chrome-extension-text-summarizer
+```
 
 
-  Open Chrome and go to chrome://extensions/.
-  Enable Developer Mode (top-right toggle).
-  Click Load unpacked and select the folder chrome-extension-text-summarizer.
+- Open Chrome and go to chrome://extensions/.
+- Enable Developer Mode (top-right toggle).
+- Click Load unpacked and select the folder chrome-extension-text-summarizer.
 
 2. Using the Extension
 - Navigate to any web page you want to summarize.
